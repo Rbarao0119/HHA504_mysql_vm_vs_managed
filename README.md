@@ -1,5 +1,4 @@
 # HHA504_mysql_vm_vs_managed
-What needs to be filled in 
 
 ## Cloud: GCP (Central Iowa)
 
