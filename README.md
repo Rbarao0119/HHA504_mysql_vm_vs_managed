@@ -31,4 +31,4 @@ Both were connected using Python, SQLAlchemy, pandas, and dotenv environment var
 ## Where are Secrets Stored
 Secrets are stored in .env.example file that is ignored and not committed
 
-Summary:
+Link: https://www.loom.com/share/fd637063f322479dbfde7940b1a0ec8d
