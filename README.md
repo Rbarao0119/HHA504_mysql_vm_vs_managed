@@ -31,4 +31,6 @@ Both were connected using Python, SQLAlchemy, pandas, and dotenv environment var
 ## Where are Secrets Stored
 Secrets are stored in .env.example file that is ignored and not committed
 
+Errors I ecountered: VM_demo: The script would not work, I forgot to change the password where secrets are store. Worked after I made the video. 
+
 Link: https://www.loom.com/share/fd637063f322479dbfde7940b1a0ec8d
