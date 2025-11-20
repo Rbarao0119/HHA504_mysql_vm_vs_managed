@@ -1,2 +1,3 @@
-Setup for MANAGED MySQL: A little more difficult as far as setup wise and running it in VS CODE. 
-I prefered doing MySQL on a VM.
+A VM based MySQL database is frequently used for a small student application. It is cheap, easy to set up, and offers the developer total control over networking, authentication plugins, and configuration. The operational burden is small for brief school projects with little traffic and no stringent uptime requirements, and the flexibility might be beneficial for learning. Patching, backups, firewall rules, failover, and monitoring must be done manually by the student as a trade-off.
+
+The managed MySQL service is the better option for a departmental analytics database. Departments frequently need automated backups, predictable availability, and the capacity to increase compute or storage with little interruption. If the cloud provider offers a Business Associate Agreement (BAA), managed MySQL is the best option for a workload that complies with a HIPPA alligned workload
